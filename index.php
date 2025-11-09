@@ -23,7 +23,7 @@ function display($a, $b) {
 }
 
 function add($a, $b) {
-    
+    echo "$a + $b = " . $a+$b;
 }
 function substract($a, $b) {
     
