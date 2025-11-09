@@ -26,7 +26,7 @@ function add($a, $b) {
     
 }
 function substract($a, $b) {
-    
+    echo "$a - $b = " . $a-$b;
 }
 function divide($a, $b) {
     
