@@ -32,5 +32,5 @@ function divide($a, $b) {
     
 }
 function exponentiate($a, $b) {
-    
+    echo "$a ^ $b = " . $a**$b;
 }
