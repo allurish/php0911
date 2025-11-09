@@ -19,9 +19,8 @@ else if($action == 4) divide();
 else if($action == 5) exponentiate();
 
 function display($a, $b) {
-    
+    echo "first number: " . $a . "\nsecond number: " . $b;
 }
-
 function add($a, $b) {
     echo "$a + $b = " . $a+$b;
 }
