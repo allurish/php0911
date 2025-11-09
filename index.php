@@ -29,7 +29,7 @@ function substract($a, $b) {
     
 }
 function divide($a, $b) {
-    
+    echo "$a / $b = " . $a/$b;
 }
 function exponentiate($a, $b) {
     
